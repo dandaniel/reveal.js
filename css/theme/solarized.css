@@ -146,3 +146,13 @@ body {
 .reveal .slide-number {
   color: #268bd2;
 }
+.reveal section img {
+  margin: 15px 0px;
+  border: 1px solid #657b83;
+}
+.book {
+  text-align: left;
+}
+.noted {
+  text-align: left;
+}
